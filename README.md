@@ -1,6 +1,3 @@
-# quote-generator-api
-An API that generates random quotes to inspire, motivate, and provide wisdom in various applications
-=======
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Armanidrisi/quote-generator-api/blob/master/LICENSE)
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/Armanidrisi/quote-generator-api/releases)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/Armanidrisi/quote-generator-api/issues)
@@ -15,7 +12,7 @@ The Quote Generator API provides endpoints to retrieve quotes from various categ
 
 ## Base URL
 
-The base URL for the API is `https://api.example.com`.
+The base URL for the API is `https://quote-generator-api-six.vercel.app`.
 
 ## Authentication
 
