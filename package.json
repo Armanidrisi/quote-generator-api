@@ -1,0 +1,28 @@
+{
+  "name": "quote-generator",
+  "version": "1.0.0",
+  "description": "An API that generates random quotes to inspire, motivate, and provide wisdom in various applications",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Armanidrisi/quote-generator-api.git"
+  },
+  "keywords": [
+    "api",
+    "quote"
+  ],
+  "author": "Arman Idrisi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Armanidrisi/quote-generator-api/issues"
+  },
+  "homepage": "https://github.com/Armanidrisi/quote-generator-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "node-quotegen": "^0.0.2"
+  }
+}
