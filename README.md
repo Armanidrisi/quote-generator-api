@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # quote-generator-api
 An API that generates random quotes to inspire, motivate, and provide wisdom in various applications
 =======
@@ -169,4 +168,3 @@ We welcome contributions to the quote generator API! If you would like 
 1. Fork this repository.
 2. Make your changes in a new branch.
 3. Submit a pull request.
->>>>>>> a95dead (Completed The Work)
