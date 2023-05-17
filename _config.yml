@@ -1,0 +1,11 @@
+theme: jekyll-theme-cayman
+
+title: Quote Generator API 
+
+show_downloads: true
+
+include: [README.md]
+
+plugins:
+
+  - jemoji
