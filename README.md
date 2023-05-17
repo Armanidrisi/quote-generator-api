@@ -1,6 +1,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Armanidrisi/quote-generator-api/blob/master/LICENSE)
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/Armanidrisi/quote-generator-api/releases)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/Armanidrisi/quote-generator-api/issues)
+[![Docs](https://img.shields.io/badge/DOCS-red.svg)](https://armanidrisi.github.io/quote-generator-api/)
 
 ### &#8627; Stargazers
 
@@ -158,7 +159,7 @@ The Quote Generator API provides a convenient way to retrieve quotes from variou
 
 If you have any further questions or need assistance, please don't hesitate to contact our support team at idrisiarman19@gmail.com!
 
-## Contributing 🤝🏼
+## Contributing 🤝
 
 We welcome contributions to the quote generator API! If you would like to contribute, please follow these steps:
 
